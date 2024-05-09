@@ -7,6 +7,8 @@ this is my assignment for campusValley Internship week-1 assignment.
 
 if any one want to use this website then use it it is free source.
 
+Preview of website 👉🏻 : https://mdshahbazansari.github.io/LandingPage/
+
 Creating a landing page is a great beginner project for web development. 
 All you need is some basic knowledge of HTML and CSS. This project helps you learn how to organize content into columns, 
 sections, headers, and footers. You'll also learn about arranging items and making everything look nice with colors, 
